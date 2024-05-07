@@ -1,0 +1,19 @@
+{
+  "name": "app-rest-api",
+  "version": "1.0.0",
+  "description": "aplikasi REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/FaisalMuaris/app-rest-api.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaisalMuaris/app-rest-api.git"
+  },
+  "author": "faisalmuaris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaisalMuaris/app-rest-api/issues"
+  },
+  "homepage": "https://github.com/FaisalMuaris/app-rest-api#readme"
+}
